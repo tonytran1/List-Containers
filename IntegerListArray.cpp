@@ -17,8 +17,8 @@ IntegerListArray::IntegerListArray() :length(0), list(NULL)
 {}
 
 /**
-*	The destructor deletes the dynamic array contents.
-*/
+ *	The destructor deletes the dynamic array contents.
+ */
 IntegerListArray::~IntegerListArray()
 {
 	delete[] list;
