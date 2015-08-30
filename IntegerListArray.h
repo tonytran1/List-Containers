@@ -24,7 +24,7 @@
 *				<li>You can sort the list in integer ascending order using the
 *				sort function.</li>
 *			</ol>
-*<center>
+* <center>
 *
 *	Below is the UML class diagram:
 *
