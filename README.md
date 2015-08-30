@@ -1,6 +1,6 @@
-# List-Containers
+# Title: Implementations of the List Class.
 
-Title: Implementations of the List Class.
+
 
 Author: Tony Tran
 
