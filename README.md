@@ -9,12 +9,19 @@ Background: The following programs will be implemented using the C++ programming
 Objective:  Building multiple programs by using different implementation methods to create a container class. Each implementation will include a destructor to eliminate all traces of memory leaks as well as exception handlers for handling empty lists and out of bounds abnormality.  
 
 1.	The IntegerListArray implementation includes using Dynamic Arrays to create a integer list which has the following operations: 
+
 •	Push: Adds an integer to the beginning of the list.
+
 •	Pop: Retrieves and removes the integer at the beginning of the list.
+
 •	pushEnd: Adds an integer at the end of the list.
+
 •	popEnd: Retrieves and removes the integer at the end of the list.
+
 •	getLength: Retrieves the current length of the list.
+
 •	getElement: Retrieves the value at the specific element location.
+
 •	Sort: Sorts the list in ascending order.
 
 Note: These operations will be common ground within the majority of the implementations.
