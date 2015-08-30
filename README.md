@@ -10,21 +10,21 @@ Objective:  Building multiple programs by using different implementation methods
 
 1.	The IntegerListArray implementation includes using Dynamic Arrays to create a integer list which has the following operations: 
 
-•	Push: Adds an integer to the beginning of the list.
+ •	Push: Adds an integer to the beginning of the list.
 
-•	Pop: Retrieves and removes the integer at the beginning of the list.
+ •	Pop: Retrieves and removes the integer at the beginning of the list.
 
-•	pushEnd: Adds an integer at the end of the list.
+ •	pushEnd: Adds an integer at the end of the list.
 
-•	popEnd: Retrieves and removes the integer at the end of the list.
+ •	popEnd: Retrieves and removes the integer at the end of the list.
 
-•	getLength: Retrieves the current length of the list.
+ •	getLength: Retrieves the current length of the list.
 
-•	getElement: Retrieves the value at the specific element location.
+ •	getElement: Retrieves the value at the specific element location.
 
-•	Sort: Sorts the list in ascending order.
+ •	Sort: Sorts the list in ascending order.
 
-Note: These operations will be common ground within the majority of the implementations.
+ Note: These operations will be common ground within the majority of the implementations.
 
 2.	The IntegerListVector implementation uses the Vector Class to provide all the operations that the first implementation (Dynamic Arrays) delivers.
 
