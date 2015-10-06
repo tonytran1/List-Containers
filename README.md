@@ -2,8 +2,6 @@
 
 
 
-Author: Tony Tran
-
 Background: The following programs will be implemented using the C++ programming language. These implementations will include the use of dynamic arrays, the vector class, linked lists, and templates.
 
 Objective:  Building multiple programs by using different implementation methods to create a container class. Each implementation will include a destructor to eliminate all traces of memory leaks as well as exception handlers for handling empty lists and out of bounds abnormality.  
